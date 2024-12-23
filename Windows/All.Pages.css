@@ -51,11 +51,22 @@ img:hover {
 .Flash {
     text-align: center;
     font-size: 1.5em;
-    color: green;
+    color: red;
     font-weight: bold;
     font-style: italic;
     text-decoration: underline;
-    text-decoration-color: darkgreen;
+    text-decoration-color: orange;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Home {
+    text-align: center;
+    font-size: 1.5em;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: white;
     font-family: "Pixelify Sans", sans-serif;
 }
 
