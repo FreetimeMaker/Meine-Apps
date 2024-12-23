@@ -10,8 +10,8 @@ body {
     height: 33.3%;
 }
 
-.c1 {
-    width: 100%;
+.c2 {
+    width: 50%;
     height: 100%;
     position: relative;
     float: left;
@@ -67,6 +67,17 @@ img:hover {
     font-style: italic;
     text-decoration: underline;
     text-decoration-color: white;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Download {
+    text-align: center;
+    font-size: 1.5em;
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: darkgreen;
     font-family: "Pixelify Sans", sans-serif;
 }
 
